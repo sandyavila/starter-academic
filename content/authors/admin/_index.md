@@ -22,6 +22,7 @@ interests:
 - Emerging Technology
 - STEM Education
 - Data Visualization
+-Test
 - MR (AR/VR/XR)
 
 # Education to show in About widget
@@ -78,6 +79,6 @@ email: ""
 highlight_name: true
 ---
 
-# Sandy Avila is a part time graduate student in the Texts & Technology PhD program at UCF. She works full time at the UCF Libraries as the Science Librarian in the Research & Information Services Department. 
+Sandy Avila is a part time graduate student in the Texts & Technology PhD program at UCF. She works full time at the UCF Libraries as the Science Librarian in the Research & Information Services Department. 
 
-# Sandy's research interests include emerging technology, science librarianship, online learning, data visualization, and MR (AR/VR/XR). 
+Sandy's research interests include emerging technology, science librarianship, online learning, data visualization, and MR (AR/VR/XR). 
