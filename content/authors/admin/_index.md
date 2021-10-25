@@ -1,12 +1,13 @@
 ---
+
 # Display name
 title: Sandy Avila
-#url: https://works.bepress.com/sandy-avila/
+
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Texts & Technology PhD student & Science Librarian
+role: Texts & Technology PhD student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,14 +15,12 @@ organizations:
   url: https://www.ucf.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include emerging technology, online learning, STEM education, and mixed reality (AR, VR, and XR).
-
+bio: My research interests include emerging technology, online learning, STEM education, and specifically mixed reality (AR, VR, and XR).
 
 # Interests to show in About widget
 interests:
 - Emerging Technology
 - STEM Education
-- Data Visualization
 - MR (AR/VR/XR)
 
 # Education to show in About widget
@@ -51,19 +50,25 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/GeorgeCushen
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.com/citations?user=f8Onp3MAAAAJ&hl=en
+  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/sandyavila
+  link: https://github.com/gcushen
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: #
-#   icon_pack: #
-#   link: #
+# - icon: cv
+#   icon_pack: ai
+#   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -72,8 +77,8 @@ email: ""
 highlight_name: true
 ---
 
-Sandy Avila is a part time T&T Phd student. 
+Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Sandy Avila ....
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
