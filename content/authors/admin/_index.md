@@ -20,8 +20,8 @@ bio: My research interests include emerging technology, online learning, STEM ed
 # Interests to show in About widget
 interests:
 - Emerging Technology
-- Data Visualization
 - STEM Education
+- Data Visualization
 - MR (AR/VR/XR)
 
 # Education to show in About widget
