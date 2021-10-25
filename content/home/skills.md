@@ -16,12 +16,12 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- 
-- description: 100%
+#
+# description: 100%
   icon: chart-line
   icon_pack: fas
   name: Statistics
-- description: 10%
+# description: 10%
   icon: camera-retro
   icon_pack: fas
   name: Photography
