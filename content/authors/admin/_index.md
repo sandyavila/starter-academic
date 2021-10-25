@@ -14,7 +14,7 @@ organizations:
   url: https://www.ucf.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include emerging technology, online learning, STEM education, and specifically mixed reality (AR, VR, and XR).
+bio: My research interests include emerging technology, online learning, STEM education, and mixed reality (AR, VR, and XR).
 
 
 # Interests to show in About widget
