@@ -6,7 +6,7 @@ title: Sandy Avila
 superuser: true
 
 # Role/position/tagline
-role: Texts & Technology PhD student
+role: Texts & Technology PhD student & Science Librarian
 
 # Organizations/Affiliations to show in About widget
 organizations:
