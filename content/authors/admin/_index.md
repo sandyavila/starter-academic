@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Sandy Avila
-
+ url: https://works.bepress.com/sandy-avila/
 # Is this the primary user of the site?
 superuser: true
 
