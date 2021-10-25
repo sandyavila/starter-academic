@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Sandy Avila
- url: https://works.bepress.com/sandy-avila/
+# url: https://works.bepress.com/sandy-avila/
 # Is this the primary user of the site?
 superuser: true
 
@@ -51,18 +51,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-# icon: 
-#  icon_pack: 
-#  link: 
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?user=f8Onp3MAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/sandyavila
-# icon: 
-#  icon_pack: 
-# link: 
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
