@@ -16,10 +16,12 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include emerging technology, online learning, STEM education, and specifically mixed reality (AR, VR, and XR).
 
+
 # Interests to show in About widget
 interests:
 - Emerging Technology
 - STEM Education
+- Data Visualization
 - MR (AR/VR/XR)
 
 # Education to show in About widget
@@ -76,8 +78,6 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Sandy Avila is a part time graduate student in the Texts & Technology PhD program at UCF. She works full time at the UCF Libraries as the Science Librarian in the Research & Information Services Department. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Sandy's research interests include emerging technology, science librarianship, online learning, data visualization, and MR (AR/VR/XR). 
