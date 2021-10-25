@@ -1,39 +1,45 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Sandy Avila
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Texts & Technology PhD student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: University of Central Florida 
+  url: https://www.ucf.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include emerging technology, online learning, STEM education, and specifically mixed reality (AR, VR, and XR).
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Emerging Technology
+- STEM Education
+- MR (AR/VR/XR)
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: MLIS, Library and Informaiton Science 
+    institution: University of South Florida
+    year: 2010
+  - course: MA, Asian Studies 
+    institution: Florida International University
     year: 2008
+  - course: MA, Religious Studies 
+    institution: Florida International University
+    year: 2008
+  - course: BA, Dance
+    institution: Florida International University
+    year: 2002
+  - course: BS, Biology
+    institution: University of South Florida 
+    year: 1998
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
