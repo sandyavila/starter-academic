@@ -78,6 +78,8 @@ email: ""
 highlight_name: true
 ---
 
-Sandy Avila is a part time graduate student in the Texts & Technology PhD program at UCF. She works full time at the UCF Libraries as the Science Librarian in the Research & Information Services Department. 
+Sandy Avila is a part time T&T Phd student. 
 
-Sandy's research interests include emerging technology, science librarianship, online learning, data visualization, and MR (AR/VR/XR). 
+Sandy Avila ....
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
