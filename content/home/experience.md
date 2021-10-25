@@ -26,7 +26,7 @@ experience:
     company: University of Central Florida 
     company_url: ''
     company_logo: ''
-    location: ''
+    location:
     date_start: '2017-10-07'
     date_end: ''
     description: |2-
@@ -36,15 +36,15 @@ experience:
         * Test
         * Test
         
-  - title: ''
-    company: ''
-    company_url: ''
-    company_logo: ''
-    location: ''
-    date_start: ''
-    date_end: ''
-    description: ''
+#  - title: ''
+#    company: ''
+#    company_url: ''
+#    company_logo: ''
+#    location: ''
+#    date_start: ''
+#    date_end: ''
+#    description: ''
 
-design:
-  columns: '2'
+# design:
+#  columns: '2'
 ---
